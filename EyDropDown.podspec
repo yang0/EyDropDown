@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary      = "一个单选的下拉列表"
   s.homepage     = "https://github.com/yang0/EyDropDown"
   s.license     = { :type => "MIT", :file => "LICENSE" }
-  s.source      = { :git => 'https://github.com/yang0/EyDropDown.git' :tag ==> '1.0.1'}
+  s.source      = { :git => 'https://github.com/yang0/EyDropDown.git', :tag => '1.0.1'}
 
   s.platform = :ios, '8.0'
   s.ios.deployment_target = '8.0'
