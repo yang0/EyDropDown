@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name        = 'EyDropDown'
-  s.version     = '1.0.0'
+  s.version     = '1.0.1'
   s.author       = { "yang0" => "137962@qq.com" }
   s.summary      = "一个单选的下拉列表"
   s.homepage     = "https://github.com/yang0/EyDropDown"
